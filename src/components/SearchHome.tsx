@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react'
+import { useState } from 'react'
 import logoFull from '../assets/grok-svg/grok-logofull.svg'
 import deepSearchIcon from '../assets/grok-svg/grok.com-14.svg'
 import imagineIcon from '../assets/grok-svg/grok.com-11.svg'
